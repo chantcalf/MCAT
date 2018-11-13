@@ -9,13 +9,10 @@ The discriminative correlation filter (DCF) has shown impressive performance in 
 ## Cite
 
 @article{MCAT,
-  author    = {Chang Liu and 
-  
-                Peng Liu and 
-                
-                Wei Zhao and 
-                
-                Xianglong Tang},
+  author    = {Peng Liu and 
+               Chang Liu and           
+               Wei Zhao and             
+               Xianglong Tang},
                 
   title     = {Multi-level context-adaptive correlation tracking},
   
